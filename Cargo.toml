@@ -2,6 +2,11 @@
 name = "debug_unwraps"
 version = "0.1.0"
 edition = "2018"
+license = "MIT"
+authors = ["Jeb Brooks <jeb@robojeb.dev>"]
+readme = "README.md"
+keywords = ["option", "debug", "unwrap"]
+description = "Extension traits for debug only checked unwrapping"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
