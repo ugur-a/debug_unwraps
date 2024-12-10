@@ -3,6 +3,7 @@ name = "debug_unwraps"
 version = "0.1.0"
 edition = "2018"
 license = "MIT"
+repository = "https://github.com/robojeb/debug_unwraps"
 authors = ["Jeb Brooks <jeb@robojeb.dev>"]
 readme = "README.md"
 keywords = ["option", "debug", "unwrap"]
